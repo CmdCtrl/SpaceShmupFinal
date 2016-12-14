@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{36B691A7-290E-CFE2-A317-F9625EDFAE1A}") = "SpaceShmupFinal", "Assembly-CSharp.csproj", "{87F9353C-3BD9-A2CE-5908-7316BC4E55A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{87F9353C-3BD9-A2CE-5908-7316BC4E55A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F9353C-3BD9-A2CE-5908-7316BC4E55A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F9353C-3BD9-A2CE-5908-7316BC4E55A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F9353C-3BD9-A2CE-5908-7316BC4E55A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
